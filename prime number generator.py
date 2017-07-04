@@ -1,5 +1,5 @@
 
-numberinrangelist = range(2,100)
+numberinrangelist = range(2,1000)
 
 for number in numberinrangelist:
   isprime = True
